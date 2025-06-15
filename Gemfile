@@ -42,6 +42,7 @@ gem "thruster", require: false
 
 gem "bootstrap", "~> 5.3"
 gem "dartsass-rails", "~> 0.5"
+gem "bcrypt"
 
 
 group :development, :test do
